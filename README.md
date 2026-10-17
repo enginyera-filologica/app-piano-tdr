@@ -1,5 +1,5 @@
 <img src="logopianoweb.png" align="right" width="120" style="margin-right: 20px;" />
-
+<br><br>
 # ⏳ Pàgina web per aprendre piano 
 
 A continuació se us presenta un prototip de pàgina web per aprendre piano que es va fer com a Treball de Recerca (TDR) de Batxillerat.
