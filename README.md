@@ -15,7 +15,7 @@ Aquesta aplicació web es va desenvolupar originalment com a Treball de Recerca 
 
 L'accés a la presentació està disponible per a l'ús públic i no comercial, per si us pot servir el contingut. 
 
-🔗 **Accés al web:** [**Pàgina web per aprendre piano (index.html)**](index.html)
+🔗 **Accés al web:** [**Pàgina web per aprendre piano]([index.html](https://enginyera-filologica.github.io/app-piano-tdr/))
 
 ---
 
